@@ -1,0 +1,10 @@
+ .cntainer{
+   
+    border: 5px solid black;
+    height: 300px;
+    display: flex;
+    flex-direction: column row-reverse;
+ }
+ .box{
+border: 2px solid brown;
+ }

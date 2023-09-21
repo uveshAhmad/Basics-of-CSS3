@@ -1,0 +1,15 @@
+ div{
+   display: inline-block;
+    background-color: rgb(20, 117, 173);
+    height: 400px;
+    width: 400px;
+     
+    margin: 10px;
+ }
+ .Box3{
+    position: relative;
+     top: 100px;
+     left: 100px;
+     right: 100px;
+     bottom: 100px;
+ }
